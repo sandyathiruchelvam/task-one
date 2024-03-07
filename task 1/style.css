@@ -1,0 +1,13 @@
+*{
+    margin: 5px;
+}
+
+.partner.name.box,.textareabox,.contactbox,.emailbox {
+    margin-bottom: 0; /* for reduce the gap b/w box and description */
+    width: 1000px;
+
+}
+.button{
+    padding:10px;
+
+}
